@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjayGL2006&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=SanjayGL-8123&label=Profile%20Views&color=0ea5e9&style=flat" alt="Profile views">
 </p>
 
 ---
@@ -91,17 +91,22 @@
 
 > 🔗 See the full list of projects on my **[portfolio](https://sanjaygl30ai.vercel.app)**.
 
+### 📂 Public Repositories
+
+- [**Registration-form**](https://github.com/SanjayGL-8123/Registration-form) — Registration form with real-time validation (HTML, CSS, JavaScript)
+- [**prop-manager-dash**](https://github.com/SanjayGL-8123/prop-manager-dash) — Property manager dashboard (TypeScript, forked)
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjayGL2006&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayGL2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayGL-8123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayGL-8123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayGL2006&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayGL-8123&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 ---
