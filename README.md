@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://sanjaygl30ai.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sanjaygl30ai.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sanjaygl.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sanjaygl.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/sanjay-gl-b86631336"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sanjaygl2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:student24to27@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
