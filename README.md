@@ -19,12 +19,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 3rd-year **BCA** student at **PES Institute of Advanced Management Studies (PESIAMS)**, Shivamogga
+- 🎓 3rd-year **BCA** student based in Shivamogga, Karnataka
 - 💼 Currently an **AI, ML & Python Developer Intern** at **Milano Infotech** *(Aug 2026 – Present)*
 - ⭐ **Star Performer** — AICTE Web Development & Designing Internship at **Oasis Infobyte** (2026)
-- 🤖 Building AI assistants, computer-vision apps, and full-stack web platforms
+- 🤖 Building AI assistants, AI agents, computer-vision apps, and full-stack web platforms
 - 🛡️ Learning cybersecurity with Kali Linux, and exploring Docker & cloud deployment
-- 🎥 Running **SPVM 3 Tech Solution** — tech education & coding tutorials
+- 🎥 Running **SPVM 3 Tech Solution** — tech education, coding tutorials, and a catalog of 74+ student, full-stack, and AI projects
 - 🤝 Open to **internships, freelance, and part-time** opportunities
 
 ---
@@ -89,12 +89,19 @@
 | **Peacock OS** | Browser-based desktop OS with draggable windows | HTML, CSS, JavaScript |
 | **Sentry Cyber Intel** | Multi-agent AI cybersecurity threat-intelligence platform | CrewAI, Groq, Exa |
 
-> 🔗 See the full list of projects on my **[portfolio](https://sanjaygl30ai.vercel.app)**.
+> 🔗 See the full list of projects on my **[portfolio](https://sanjaygl.vercel.app)**.
 
 ### 📂 Public Repositories
 
-- [**Registration-form**](https://github.com/SanjayGL-8123/Registration-form) — Registration form with real-time validation (HTML, CSS, JavaScript)
-- [**prop-manager-dash**](https://github.com/SanjayGL-8123/prop-manager-dash) — Property manager dashboard (TypeScript, forked)
+| Repository | Description | Language |
+|---|---|---|
+| [**spvm3-project-hub**](https://github.com/SanjayGL-8123/spvm3-project-hub) | Official project showcase & catalog for SPVM Tech Solution, featuring 74+ student, full-stack, and AI projects with direct WhatsApp and email inquiry links | HTML |
+| [**AI-Agent-used-google-api**](https://github.com/SanjayGL-8123/AI-Agent-used-google-api) | AI agent built with Google APIs (MIT License) | Python |
+| [**AIML-course-and-Practical**](https://github.com/SanjayGL-8123/AIML-course-and-Practical) | AI & ML course material and practical notebooks | Jupyter Notebook |
+| [**portfolio-with-agent**](https://github.com/SanjayGL-8123/portfolio-with-agent) | Portfolio website with an integrated AI agent | JavaScript |
+| [**SPVM3-Local-QR-Code-Studio-**](https://github.com/SanjayGL-8123/SPVM3-Local-QR-Code-Studio-) | Local QR code studio | HTML |
+| [**Registration-form**](https://github.com/SanjayGL-8123/Registration-form) | Registration form with real-time validation | HTML, CSS, JavaScript |
+| [**prop-manager-dash**](https://github.com/SanjayGL-8123/prop-manager-dash) | Property manager dashboard *(forked)* | TypeScript |
 
 ---
 
@@ -113,6 +120,7 @@
 
 ## 🏅 Certifications & Achievements
 
+- 🎖️ **Pathway Completion Certificate — Apply AI at Work**, OpenAI Academy (Oct 2026) · Completed all three pathway courses, passing each assessment with 80%+ · Credential ID: 198187379
 - 🥇 **Star Performer** — AICTE Web Development Internship, Oasis Infobyte (2026)
 - 🏆 **PRAVIDHI** — State Level BCA Tech Fest, coding event (2026)
 - ☁️ Microsoft Azure Fundamentals (AZ-900)
@@ -120,13 +128,12 @@
 - 🛡️ Cybersecurity Fundamentals — Cisco Networking Academy
 - 🛡️ Cyber Security Cadet — C-DAC & ISEA, Digital India
 - ⚡ HackerRank certificates: JavaScript, SQL, Java, CSS, Python, React
-- 🇮🇳 NSS volunteer and Government of India (MY Bharat) youth camp participant
 
 ---
 
 ## 🎯 Currently Working On
 
-- 🔭 AI-powered apps with FastAPI + React
+- 🔭 AI agents and AI-powered apps with FastAPI + React
 - 🔭 Computer-vision and deep-learning workflows
 - 🔭 Docker & cloud deployment
 - 🔭 Vulnerability scanner and AI emotion-detection projects
@@ -135,9 +142,9 @@
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [sanjaygl30ai.vercel.app](https://sanjaygl30ai.vercel.app)
+- 🌐 Portfolio: [sanjaygl.vercel.app](https://sanjaygl.vercel.app)
 - 💼 LinkedIn: [sanjay-gl-b86631336](https://linkedin.com/in/sanjay-gl-b86631336)
-- 📧 Email: [sanjaygl2006@gmail.com](mailto:sanjaygl2006@gmail.com)
+- 📧 Email: [student24to27@gmail.com](mailto:student24to27@gmail.com)
 - 📺 YouTube & 📸 Instagram: **@spvm3techsolution**
 
 <p align="center">
