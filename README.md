@@ -24,7 +24,6 @@
 - ⭐ **Star Performer** — AICTE Web Development & Designing Internship at **Oasis Infobyte** (2026)
 - 🤖 Building AI assistants, AI agents, computer-vision apps, and full-stack web platforms
 - 🛡️ Learning cybersecurity with Kali Linux, and exploring Docker & cloud deployment
-- 🎥 Running **SPVM 3 Tech Solution** — tech education, coding tutorials, and a catalog of 74+ student, full-stack, and AI projects
 - 🤝 Open to **internships, freelance, and part-time** opportunities
 
 ---
@@ -95,7 +94,6 @@
 
 | Repository | Description | Language |
 |---|---|---|
-| [**spvm3-project-hub**](https://github.com/SanjayGL-8123/spvm3-project-hub) | Official project showcase & catalog for SPVM Tech Solution, featuring 74+ student, full-stack, and AI projects with direct WhatsApp and email inquiry links | HTML |
 | [**AI-Agent-used-google-api**](https://github.com/SanjayGL-8123/AI-Agent-used-google-api) | AI agent built with Google APIs (MIT License) | Python |
 | [**AIML-course-and-Practical**](https://github.com/SanjayGL-8123/AIML-course-and-Practical) | AI & ML course material and practical notebooks | Jupyter Notebook |
 | [**portfolio-with-agent**](https://github.com/SanjayGL-8123/portfolio-with-agent) | Portfolio website with an integrated AI agent | JavaScript |
@@ -120,14 +118,34 @@
 
 ## 🏅 Certifications & Achievements
 
-- 🎖️ **Pathway Completion Certificate — Apply AI at Work**, OpenAI Academy (Oct 2026) · Completed all three pathway courses, passing each assessment with 80%+ · Credential ID: 198187379
-- 🥇 **Star Performer** — AICTE Web Development Internship, Oasis Infobyte (2026)
+**Internships**
+- 🥇 **Star Performer** — AICTE Web Development & Designing Internship, Oasis Infobyte (2026)
+- 💼 **AI, ML & Python Developer Intern** — Milano Infotech (Aug 2026 – Present)
+
+**Hackathons & Competitions**
 - 🏆 **PRAVIDHI** — State Level BCA Tech Fest, coding event (2026)
+- 💻 **Code Break Challenge** — Global Academy of Technology (Participation Certificate)
+- 💻 **Hackathon** — REVA University (Participation Certificate)
+- 🚦 **National Road Safety Quiz** — MyGov & Ministry of Road Transport and Highways, Government of India
+
+**Courses & Certifications**
+- 🎖️ **Pathway Completion Certificate — Apply AI at Work**, OpenAI Academy (Oct 2026) · Completed all three pathway courses, passing each assessment with 80%+ · Credential ID: 198187379
 - ☁️ Microsoft Azure Fundamentals (AZ-900)
-- 🧠 AI & Machine Learning Essentials — DeepLearning.AI
+- 🐍 **Python** — Simplilearn
+- 🧪 **Software Testing Engineer** — Simplilearn
+- 🛡️ **Ethical Hacking** — Cisco Networking Academy
+- 🐍 **Python** — Cisco Networking Academy
 - 🛡️ Cybersecurity Fundamentals — Cisco Networking Academy
 - 🛡️ Cyber Security Cadet — C-DAC & ISEA, Digital India
+- 🧠 AI & Machine Learning Essentials — DeepLearning.AI
+- 📚 Great Learning — multiple course certificates
 - ⚡ HackerRank certificates: JavaScript, SQL, Java, CSS, Python, React
+
+**Community Service & Government Pledges**
+- 🤝 **NSS (National Service Scheme)** — 1 year of service; attended NSS camp
+- 🩸 **Blood Donation** — donated 2 times
+- 🩸 **Blood Donation Pledge** — MyGov, Government of India
+- ❤️ **Save Life Pledge** — MyGov, Government of India
 
 ---
 
@@ -145,7 +163,6 @@
 - 🌐 Portfolio: [sanjaygl.vercel.app](https://sanjaygl.vercel.app)
 - 💼 LinkedIn: [sanjay-gl-b86631336](https://linkedin.com/in/sanjay-gl-b86631336)
 - 📧 Email: [student24to27@gmail.com](mailto:student24to27@gmail.com)
-- 📺 YouTube & 📸 Instagram: **@spvm3techsolution**
 
 <p align="center">
   <i>⭐ If you like my work, feel free to star a repo or say hi!</i>
