@@ -83,7 +83,6 @@
 | **Sindhanai Full Stack AI** | AI-driven content generation and workflow platform | React, Node.js, Express, MongoDB, Gemini API |
 | **Sai AI Assistant** | Gemini-powered assistant with productivity tools | Flask, SQLite, Gemini API |
 | **Resume Analyzer** | TF-IDF resume vs. job-description match and skill-gap analyzer | Flask, MySQL, scikit-learn |
-| **SPVM3 Code Editor** | Local-first desktop IDE with multi-language runners | Electron, React, Monaco |
 | **Pure Weaves** | E-commerce platform for artisan sarees and textiles | Flask, JS, SQLite, Vercel, Render |
 | **Peacock OS** | Browser-based desktop OS with draggable windows | HTML, CSS, JavaScript |
 | **Sentry Cyber Intel** | Multi-agent AI cybersecurity threat-intelligence platform | CrewAI, Groq, Exa |
@@ -97,7 +96,6 @@
 | [**AI-Agent-used-google-api**](https://github.com/SanjayGL-8123/AI-Agent-used-google-api) | AI agent built with Google APIs (MIT License) | Python |
 | [**AIML-course-and-Practical**](https://github.com/SanjayGL-8123/AIML-course-and-Practical) | AI & ML course material and practical notebooks | Jupyter Notebook |
 | [**portfolio-with-agent**](https://github.com/SanjayGL-8123/portfolio-with-agent) | Portfolio website with an integrated AI agent | JavaScript |
-| [**SPVM3-Local-QR-Code-Studio-**](https://github.com/SanjayGL-8123/SPVM3-Local-QR-Code-Studio-) | Local QR code studio | HTML |
 | [**Registration-form**](https://github.com/SanjayGL-8123/Registration-form) | Registration form with real-time validation | HTML, CSS, JavaScript |
 | [**prop-manager-dash**](https://github.com/SanjayGL-8123/prop-manager-dash) | Property manager dashboard *(forked)* | TypeScript |
 
